@@ -1,7 +1,7 @@
 ##
-## Telephone Call Router - Java Application
+## Telephone Call Router - Python Application
 ##
-## @category   Java_Application
+## @category   Python_Application
 ## @package    telephone-call-router
 ## @author     Suman Barua
 ## @developer  Suman Barua <sumanbarua576@gmail.com>
